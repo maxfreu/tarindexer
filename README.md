@@ -1,6 +1,6 @@
 # tarindexer
 
-This is a little program to index tar files for fast access - inspired by https://github.com/devsnd/tarindexer and written by OpenAI o1.
+This is a little program to index tar files for fast access - inspired by https://github.com/devsnd/tarindexer and written by OpenAI o1. It has no dependencies and should compile without hassle.
 
 This is a simple C program that reads a tar file from a specified file or standard input and outputs a list of files contained within the tar archive. For each file, it prints the file name, the byte offset where the file's data starts in the archive, and the size of the file in bytes.
 
